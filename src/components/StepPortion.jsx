@@ -1,4 +1,4 @@
-import "../index.css"
+import "/src/index.css"
 
 function StepPortion({step, setStep}) {
 
