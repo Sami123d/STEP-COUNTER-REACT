@@ -1,4 +1,4 @@
-
+import "/src/index.css"
 
 function StatusBar({count}) {
   let today = new Date();
