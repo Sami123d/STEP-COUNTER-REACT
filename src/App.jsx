@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import StepPortion from "./components/StepPortion";
+import StepPortion from "./components/StepPortion"
 import CounterPortion from "./components/CounterPortion";
 import StatusBar from "./components/StatusBar";
-
+import "./index.css"
 function App() {
   const [step, setStep] = useState(1);
   const [count, setCount] = useState(0);
