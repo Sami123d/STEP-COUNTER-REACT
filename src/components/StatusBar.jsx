@@ -1,4 +1,4 @@
-import React from 'react'
+import "../index.css"
 
 function StatusBar({count}) {
   let today = new Date();
